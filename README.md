@@ -1,4 +1,4 @@
-- 👋 Oi, me chamo Bruno, mas se quiser pode me chamar de rato.
+- 👋 Oi, me chamo Bruno c:
 - 👀 Estou interessado em criar jogos 2D
 - 🌱 Atualmente estou aprendendo html, css e js
 - 📫 Como me encontrar: Discord - r4t0f0rj4d0
